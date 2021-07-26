@@ -136,7 +136,7 @@ const Form = () => {
                         </NavLink>
                     </div>
                     <div styleclassName={classes.NavMenu}>
-                        <NavLink className={classes.opt} to='/'>Log Out</NavLink>
+                        <NavLink className={classes.opt} to='/'>Log In</NavLink>
                         <NavLink className={classes.opt} exact activeClassName="active_class"  to = '/'>About Us</NavLink>
                         <NavLink className={classes.opt} exact activeClassName="active_class" to = '/'>Home</NavLink>
                     </div>
